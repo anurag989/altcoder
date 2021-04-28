@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AngularJS, MySQL,and java**
 
-- 👨‍💻 All of my projects are available at [altcoder.cf](altcoder.cf)
+- 👨‍💻 All of my projects are available at [Altcoder](https://altcoder.cf/)
 
 - 📝 I regularly write articles on [superduperfacts.tk](superduperfacts.tk)
 
