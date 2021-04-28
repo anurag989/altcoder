@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anurag singh</h1>
 <h3 align="center">A passionate frontend developer and web designer from India</h3>
 
-- 🔭 I’m currently working on [Personal website](altcoder.cf)
+- 🔭 I’m currently working on [Url shortner](http://agurl.tk/)
 
 - 🌱 I’m currently learning **AngularJS, MySQL,and java**
 
 - 👨‍💻 All of my projects are available at [Altcoder](https://altcoder.cf/)
 
-- 📝 I regularly write articles on [superduperfacts.tk](superduperfacts.tk)
+- 📝 I regularly write articles on [superduperfacts.tk](https://superduperfacts.tk/)
 
 - 💬 Ask me about **React, javascript,frontend development**
 
